@@ -1,5 +1,7 @@
 .wrapper__btn {
-    border:none;
+    border: none;
+    margin-top: 20px;
+
     &_mini {
         border: none;
         text-align: center;
@@ -13,8 +15,8 @@
     }
 
     &_big {
+        font-size: 15px;
         background: #fff;
-        margin-left: 20px;
         color: black;
         width: 220px;
         height: 40px;
