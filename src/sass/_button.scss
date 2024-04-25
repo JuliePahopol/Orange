@@ -1,0 +1,23 @@
+.wrapper__btn {
+    border:none;
+    &_mini {
+        border: none;
+        text-align: center;
+        background: grey;
+        border: none;
+        width: 90px;
+        height: 40px;
+        font-size: 16px;
+        text-decoration: none;
+        border: none;
+    }
+
+    &_big {
+        background: #fff;
+        margin-left: 20px;
+        color: black;
+        width: 220px;
+        height: 40px;
+        border: 2px solid black;
+    }
+}
